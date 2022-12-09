@@ -63,7 +63,7 @@ You can download the users_information sql file and import it into your phpmyadm
     
     
 # Temporary Credentials
-if you want to try out the login system temperary login usernames and passwords are present below :
+if you want to try out the login system temporary login usernames and passwords are present below :
 
 test email is : test@gmail.com 
 
