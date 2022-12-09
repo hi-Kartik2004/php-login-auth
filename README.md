@@ -12,32 +12,33 @@ or
 # Import database
 You can download the users_information sql file and import it into your phpmyadmin panel by clicking on the import button present on the panel header.
 
-or run the following codes in console one after the other.
 
-CREATE DATABASE `community`;
+ //or run the following codes in console one after the other.
+ 
+      CREATE DATABASE `community`;
 
-CREATE TABLE `users_information` (
-  `id` int(11) NOT NULL,
-  `first_name` varchar(255) NOT NULL,
-  `last_name` varchar(255) NOT NULL,
-  `gender` int(11) NOT NULL,
-  `username` varchar(255) NOT NULL,
-  `email` varchar(255) NOT NULL,
-  `password` varchar(255) NOT NULL,
-  `year` int(11) NOT NULL,
-  `branch` varchar(255) NOT NULL,
-  `profile_pic` int(11) NOT NULL,
-  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
-  `updated_at` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
-  `ac_status` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+    CREATE TABLE `users_information` (
+      `id` int(11) NOT NULL,
+      `first_name` varchar(255) NOT NULL,
+      `last_name` varchar(255) NOT NULL,
+      `gender` int(11) NOT NULL,
+      `username` varchar(255) NOT NULL,
+      `email` varchar(255) NOT NULL,
+      `password` varchar(255) NOT NULL,
+      `year` int(11) NOT NULL,
+      `branch` varchar(255) NOT NULL,
+      `profile_pic` int(11) NOT NULL,
+      `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+      `updated_at` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp(),
+      `ac_status` int(11) NOT NULL
+    ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
-ALTER TABLE `users_information`
-  ADD PRIMARY KEY (`id`);
-  
- ALTER TABLE `users_information`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
-COMMIT;
+    ALTER TABLE `users_information`
+      ADD PRIMARY KEY (`id`);
+
+     ALTER TABLE `users_information`
+      MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+    COMMIT;
 
 *******************************************************************************
 
