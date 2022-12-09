@@ -9,8 +9,13 @@ or
 
 
 *******************************************************************************
-#import Sql database in phpmyadmin by clicking the import button on the header of phpmyadmin panel
-or 
+# import database
+You can download the users_information sql file and import it into your phpmyadmin panel by clicking on the import button present on the panel header.
+
+or run the following codes in console one after the other.
+
+CREATE DATABASE `community`;
+
 CREATE TABLE `users_information` (
   `id` int(11) NOT NULL,
   `first_name` varchar(255) NOT NULL,
@@ -30,13 +35,13 @@ CREATE TABLE `users_information` (
 ALTER TABLE `users_information`
   ADD PRIMARY KEY (`id`);
   
-  ALTER TABLE `users_information`
+ ALTER TABLE `users_information`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 COMMIT;
 
 *******************************************************************************
 
-#setup Mailer
+# setup Mailer
 1. Open assets folder.
 2. then Open php folder.
 3. open send_code.php file.
