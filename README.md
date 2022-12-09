@@ -1,7 +1,7 @@
 /* Author : Kartikeya Saini */
 
 
-#Steps to use download this project.
+# Steps to use download this project.
 1. fork and clone using command git clone <repository url>
 or 
 2. Download as zip
@@ -9,7 +9,7 @@ or
 
 
 *******************************************************************************
-# import database
+# Import database
 You can download the users_information sql file and import it into your phpmyadmin panel by clicking on the import button present on the panel header.
 
 or run the following codes in console one after the other.
@@ -41,7 +41,7 @@ COMMIT;
 
 *******************************************************************************
 
-# setup Mailer
+# Setup Mailer
 1. Open assets folder.
 2. then Open php folder.
 3. open send_code.php file.
