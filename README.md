@@ -47,7 +47,8 @@ COMMIT;
 3. open send_code.php file.
 4. Do the following changes in the code present in send_code.php file.
 
-Send using SMTP
+//Send using SMTP:
+
     $mail->Host       = 'smtp.gmail.com';        //if you will use gmail to send verification email don't change             //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
     $mail->Username   = 'username@gmail.com';      //Gmail userid              //SMTP username
