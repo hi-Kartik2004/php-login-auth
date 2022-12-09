@@ -44,7 +44,7 @@ COMMIT;
 # Setup Mailer
 1. Open assets folder.
 2. then Open php folder.
-3. open send_code.php file.
+3. open send_code.php file. [assets -> php -> send_code.php]
 4. Do the following changes in the code present in send_code.php file.
 
 //Send using SMTP:
@@ -64,7 +64,8 @@ COMMIT;
 # Temporary Credentials
 if you want to try out the login system temperary login usernames and passwords are present below :
 
-test email is : test@gmail.com
+test email is : test@gmail.com 
+
 test password is : test
 
 You can signup and add new accounts...
