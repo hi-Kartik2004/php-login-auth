@@ -3,8 +3,7 @@
 
 # Steps to use/download this project.
 1. fork and clone using command git clone repository_url_here
-or 
-2. Download as zip
+or  Download as zip
 
 
 
