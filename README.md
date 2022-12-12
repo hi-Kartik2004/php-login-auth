@@ -59,7 +59,10 @@ You can download the users_information sql file and import it into your phpmyadm
     //Recipients
     $mail->setFrom('username@gmail.com', 'Your company/website name');
     $mail->addAddress($receiver);               //Name is optional
-    
+  
+# How it looks:
+![image](https://user-images.githubusercontent.com/111000515/207064872-40c453fc-3c4f-4808-aeaf-3dce45de3294.png)
+
     
 # Temporary Credentials
 if you want to try out the login system temporary login usernames and passwords are present below :
