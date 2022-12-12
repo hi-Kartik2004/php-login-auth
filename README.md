@@ -69,7 +69,8 @@ Login Page:
  
    Verification Page
   ![image](https://user-images.githubusercontent.com/111000515/207065434-75032551-db00-49ba-9f8a-1646a1ea4519.png)
-  ![image](https://user-images.githubusercontent.com/111000515/207065560-f391807a-02bd-4958-bb7d-3374cf6eb0c3.png)
+  ![image](https://user-images.githubusercontent.com/111000515/207066691-95d3a97b-3b66-4921-b631-360e0f6d74cf.png)
+
  Forgot Password
  ![image](https://user-images.githubusercontent.com/111000515/207066341-8afc160e-1418-4ddc-9569-963e59253e4b.png)
 
