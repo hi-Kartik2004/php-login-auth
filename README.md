@@ -61,7 +61,17 @@ You can download the users_information sql file and import it into your phpmyadm
     $mail->addAddress($receiver);               //Name is optional
   
 # How it looks:
+<h1> Login Page </h1>
 ![image](https://user-images.githubusercontent.com/111000515/207064872-40c453fc-3c4f-4808-aeaf-3dce45de3294.png)
+ 
+ <h1> Signup Page </h1>
+  ![image](https://user-images.githubusercontent.com/111000515/207065162-a3250c09-cfad-46c1-857e-9d53d8e209d0.png)
+ 
+  <h1> Verification Page </h1>
+  ![image](https://user-images.githubusercontent.com/111000515/207065434-75032551-db00-49ba-9f8a-1646a1ea4519.png)
+  ![image](https://user-images.githubusercontent.com/111000515/207065560-f391807a-02bd-4958-bb7d-3374cf6eb0c3.png)
+ <h1> Forgot Password </h1>
+ ![image](https://user-images.githubusercontent.com/111000515/207065893-9ff2a228-1b14-4001-ac9e-51b089afc42b.png)
 
     
 # Temporary Credentials
