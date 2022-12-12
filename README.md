@@ -71,7 +71,7 @@ Login Page:
   ![image](https://user-images.githubusercontent.com/111000515/207065434-75032551-db00-49ba-9f8a-1646a1ea4519.png)
   ![image](https://user-images.githubusercontent.com/111000515/207065560-f391807a-02bd-4958-bb7d-3374cf6eb0c3.png)
  Forgot Password
- ![image](https://user-images.githubusercontent.com/111000515/207065893-9ff2a228-1b14-4001-ac9e-51b089afc42b.png)
+ ![image](https://user-images.githubusercontent.com/111000515/207066341-8afc160e-1418-4ddc-9569-963e59253e4b.png)
 
     
 # Temporary Credentials
